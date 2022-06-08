@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MensagemComEntradaGrafico
+comment1.params=mensagem
+comment1.target=MensagemComEntradaGrafico(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTexto()
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

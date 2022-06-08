@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RemoverGrafico
+comment1.params=
+comment1.target=RemoverGrafico()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ RemoverGrafico\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRaRemover()
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ M\u00E9todo\ actionPerformed\r\n\r\n\ @param\ ae\ Um\ par\u00E2metro\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ListaLigada
+comment1.params=
+comment1.target=ListaLigada()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ ListaLigada\r\n
+comment2.params=A
+comment2.target=void\ inserir(Model.Aluno)
+comment3.params=ra
+comment3.target=void\ remover(java.lang.String)
+comment4.params=
+comment4.target=void\ listar()
+comment5.params=
+comment5.target=void\ gravar()
+comment6.params=
+comment6.target=void\ ler()
+numComments=7

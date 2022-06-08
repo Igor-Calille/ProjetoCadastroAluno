@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MenuGrafico
+comment1.params=
+comment1.target=MenuGrafico()
+comment2.params=
+comment2.target=java.lang.String\ SelecOp()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=Q
+comment4.target=void\ RemoverGrafico(int)
+numComments=5

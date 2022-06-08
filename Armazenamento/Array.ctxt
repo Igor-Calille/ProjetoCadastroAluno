@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Array
+comment1.params=
+comment1.target=Array()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Array\r\n
+comment2.params=A
+comment2.target=void\ inserir(Model.Aluno)
+comment3.params=remove
+comment3.target=void\ remover(java.lang.String)
+comment3.text=\r\n\ M\u00E9todo\ remover\r\n\r\n\ @remover\ o\ aluno\ com\ o\ ra\ selecionado\ do\ vetor\r\n
+comment4.params=
+comment4.target=void\ listar()
+comment4.text=\r\n\ M\u00E9todo\ listar\r\n@percorrer\ o\ vetor\ e\ lista-lo\r\n
+comment5.params=
+comment5.target=void\ gravar()
+comment5.text=\r\n\ M\u00E9todo\ gravar\r\n@gravar\ o\ contudo\ do\ arquivo\ em\ txt\r\n
+comment6.params=
+comment6.target=void\ ler()
+comment6.text=\r\n\ M\u00E9todo\ ler\r\n@ler\ o\ arquivo\ txt\ salvo\ no\ programa\r\n
+comment7.params=
+comment7.target=Model.Aluno[]\ getVetAluno()
+numComments=8

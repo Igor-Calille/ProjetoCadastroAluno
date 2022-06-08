@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArquivoTexto
+comment1.params=vet\ Q\ max
+comment1.target=ArquivoTexto(Model.Aluno[],\ int,\ int)
+comment2.params=
+comment2.target=void\ lerObjeto()
+comment2.text=\r\n\ M\u00E9todo\ lerObjeto\r\n@Le\ um\ arquivo\ no\ formato\ txt\ criado\ pelo\ programa\r\n
+comment3.params=
+comment3.target=void\ gravarObjeto()
+comment3.text=\r\n\ M\u00E9todo\ gravarObjeto\r\n@grava\ os\ alunos\ cadastrados\ durante\ a\ execucao\ do\ programa\ no\ formato\ txt\r\n
+numComments=4
